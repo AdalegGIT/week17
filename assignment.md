@@ -16,7 +16,7 @@ Make use of the methods added to your models by the associations in order to ans
 6. Use an association-provided method to find the media type of that same track.
 7. Use an association-provided method to find the album that track appears on.
 
-## Part 4
+## Part 2
 1. Add a `through` association to Chinook that will allow you to make the following query:
   ```ruby
   Artist.last.tracks
